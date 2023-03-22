@@ -1,0 +1,54 @@
+D:\Visual Studio\final\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Visual Studio\final\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Visual Studio\final\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\BusTickect.csproj.GenerateResource.cache
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\BusTickect.csproj.CoreCompileInputs.cache
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\BusTickect.csproj.AssemblyReference.cache
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Registration.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPanel.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.PriceList.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.StockTicket.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BusSchedule.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SellHistory.resources
+D:\Visual Studio\final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UpdateStock.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\11.Summer\C#\CODE\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\11.Summer\C#\CODE\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\BusTickect.csproj.AssemblyReference.cache
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPanel.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BusSchedule.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.PriceList.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Registration.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SellHistory.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.StockTicket.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UpdateStock.resources
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\BusTickect.csproj.GenerateResource.cache
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\BusTickect.csproj.CoreCompileInputs.cache
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\11.Summer\C#\CODE\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DELL\Downloads\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DELL\Downloads\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DELL\Downloads\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\BusTickect.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPanel.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.BusSchedule.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Login.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.PriceList.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Registration.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SellHistory.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.StockTicket.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UpdateStock.resources
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\BusTickect.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\BusTickect.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DELL\Downloads\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
